@@ -11,7 +11,53 @@
 ## Data Structures
 
 - Hash Table
+  - Hash Function
+  - Hash Collision
 - Binary Tree
+- Linked list
+  - Types of Linked List
+    - Singly Linked List
+    - Doubly Linked List
+    - Circular Linked List
+  - Methods
+    - Traversal
+    - Insertion
+    - Deletion
+    - Search
+    - Sort
+- Stack
+  - Types of Stack
+    - LIFO (Last-in First-out)
+  - Methods
+    - Push
+    - Pop
+    - isEmpty
+    - isFull
+    - Peek
+- Queue
+  - Types of Queues
+    - Simple Queue
+    - Circular Queue
+    - Priority Queue
+    - Double Ended Queue
+  - Rules
+    - FIFO (First In, First Out)
+    - LILO (Last-In-Last-Out)
+  - Methods
+    - Enqueue
+    - Dequeue
+    - isEmpty
+    - isFull
+    - Peek
+- Heap
+  - Types of Heap
+    - Fibonacci Heap
+  - Methods
+    - Insert
+    - Heapify
+    - Delete
+    - Peek
+    - Extract-Max/Min
 - Graph
   - BFS (Breadth-first search)
   - DFS (Depth-first search)
@@ -36,6 +82,8 @@
 - Continuation Passing Style
 - Fold
 - Lazy Evaluation
+- Callback
+- Memoization
 - Lambda
 - Hoisting
 - Deep copy
