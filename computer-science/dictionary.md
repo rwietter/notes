@@ -14,6 +14,13 @@
   - Hash Function
   - Hash Collision
 - Binary Tree
+  - Types of Binary Tree
+    - Binary Tree
+    - Binary Search Tree (BSTs)
+    - AVL Tree
+    - B-Tree
+    - B+ Tree
+    - Red-Black Tree
 - Linked list
   - Types of Linked List
     - Singly Linked List
@@ -63,6 +70,10 @@
   - DFS (Depth-first search)
   - DLS (Depth-first search)
   - IDDFS (Iterative deepening depth-first search)
+
+---
+
+## Big O notation
 
 ---
 
