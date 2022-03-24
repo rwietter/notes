@@ -1,5 +1,5 @@
 
-# Computer Science Dictionary
+# Glossary of Computer Science
 
 ## Computer Science
 
