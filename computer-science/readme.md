@@ -166,3 +166,4 @@
 
 - Over-fetching
 - Under-fetching
+- Two-way databinding
