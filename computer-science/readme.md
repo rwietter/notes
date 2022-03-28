@@ -27,6 +27,11 @@
 - Formal semantics: rigorous mathematical study of the meaning of programs.
 - Type theory: formal analysis of the types of data, and the use of these types to understand properties of programs — especially program safety.
 
+## Computer architecture
+
+- Computer architecture: the design, organization, optimization and verification of a computer system, mostly about CPUs and Memory subsystem (and the bus connecting them).
+- Operating systems: systems for managing computer programs and providing the basis of a usable system.
+
 ## Theory of computation
 
 - Automata theory: different logical structures for solving problems.
@@ -196,6 +201,17 @@
 - Under-fetching
 - Two-way databinding
 
+---
+
+# Study
+
+- [ ] Computer architecture
+- [ ] Mathematical logic
+- [ ] Type theory
+- [ ] Relational databases
+- [ ] Structured Storage
+
+---
 
 ### References
 
