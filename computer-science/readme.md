@@ -203,7 +203,7 @@
 
 ---
 
-# Study
+### Study
 
 - [ ] Computer architecture
 - [ ] Mathematical logic
