@@ -195,3 +195,8 @@
 - Over-fetching
 - Under-fetching
 - Two-way databinding
+
+
+### References
+
+[Outline of computer science](https://en.m.wikipedia.org/wiki/Outline_of_computer_science)
