@@ -44,6 +44,7 @@
 
 - Abstraction
 - Finite-state machine
+- Idempotent logic
 
 
 ## Data Structures
@@ -200,6 +201,10 @@
 - Over-fetching
 - Under-fetching
 - Two-way databinding
+
+## Agile
+
+- Behavior Driven Development
 
 ---
 
