@@ -143,5 +143,13 @@ Existem três tarefas essenciais sob sua responsabilidade que abrangem a maior p
 
 ### 10 Um passo de cada vez
 
+Uma das maneiras mais efetivas de superar a procrastinação é deixar de pensar na tarefa gigantesca que você tem pela frente e se concentrar na única ação que pode realizar no momento.
+
+> Lao Tsé: “Uma jornada de mil léguas começa com o primeiro passo.”
+
+- Selecione qualquer objetivo, tarefa ou projeto que esteja procrastinando e elabore uma lista com os passos que precisará dar para completá-lo.
+- Dê o primeiro passo imediatamente. Às vezes, tudo o que você precisa fazer para começar é se concentrar e finalizar um item da lista. Depois, basta terminar outro, mais outro, e assim por diante. Siga em frente com disciplina e você ficará surpreso com a velocidade de seu progresso.
+
 ---
 
+### 11 Aprimore suas principais habilidades
