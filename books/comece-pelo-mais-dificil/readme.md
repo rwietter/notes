@@ -153,3 +153,18 @@ Uma das maneiras mais efetivas de superar a procrastinação é deixar de pensar
 ---
 
 ### 11 Aprimore suas principais habilidades
+
+- Procure sempre aperfeiçoar as habilidades que proporcionam os resultados mais importantes. Lembre-se: embora no momento você seja competente, seu conhecimento e seus talentos estão ficando obsoletos rapidamente. Como diz Pat Riley, lendário técnico de basquete americano: “Se você para de se esforçar para melhorar, está fadado a piorar.”
+- Nunca pare de aprender
+  - O aprendizado contínuo é o requisito básico para o sucesso em qualquer área.
+
+Três passos para se tornar um especialista:
+
+1. Leia textos sobre sua área de atuação durante cerca de 30 minutos ou uma hora por dia. Levante-se um pouco mais cedo e escolha um livro ou uma revista com informações que o levem a ser mais eficiente e produtivo no que você faz.
+2. participe de todos os cursos e seminários que possam ajudá-lo a aprimorar suas habilidades mais importantes. Vá a palestras, workshops e congressos que tenham a ver com sua profissão ou seu cargo. Sente-se na frente e tome notas. Torne-se uma das pessoas mais informadas e cultas de sua área.
+3. Escute programas de rádio, podcasts e audiolivros enquanto se desloca para o trabalho. Transforme esse tempo num momento de aprendizado.
+
+Quanto mais você aprende e sabe, mais confiante e motivado se sente. Quanto mais competente você se torna, mais é capaz de realizar tarefas complexas com competência e velocidade.
+
+---
+
