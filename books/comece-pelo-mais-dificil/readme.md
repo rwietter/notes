@@ -68,6 +68,8 @@ Crie uma imagem daquilo que você deseja ser: uma forma de acelerar seu progress
 - O que só eu posso realizar com qualidade para fazer uma grande diferença?
 - Neste momento, de que forma posso usar meu tempo de maneira mais útil? Ou, em outras palavras: “Qual é a tarefa mais importante que preciso encarar agora?”
 
+---
+
 ### 5 Pratique a procrastinação criativa
 
 - Evite as tarefas menores, menos importantes. Primeiro, encare as maiores.
@@ -80,8 +82,66 @@ Crie uma imagem daquilo que você deseja ser: uma forma de acelerar seu progress
 
 ### 6 Use o Método ABCDE
 
-
+- O poder dessa técnica reside em sua simplicidade. Ela funciona da seguinte forma: você cria uma lista de tudo o que precisa fazer ao longo do dia. Em seguida, antes de começar a primeira tarefa, escreve a letra A, B, C, D ou Eao lado de cada item.
+  - Um item A é definido como algo fundamental, que você precisa fazer e acarretará consequências sérias, sejam positivas ou negativas, de acordo com seu desempenho.
+  - Se você tem mais de uma tarefa A, precisa organizá-las por prioridade. Para isso, numere as tarefas A de acordo com a prioridade: A-1, A-2, A-3, etc., sendo a tarefa A-1 a mais importante.
+  - Entre os itens B estão as tarefas que você deveria fazer, mas que geram consequências menos graves – não são cruciais.
+  - A tarefa C é aquela que seria interessante realizar, mas que, em última análise, não faz a menor diferença caso não seja feita.
+  - A tarefa D é aquela que pode ser delegada.
+  - A tarefa E é aquela que pode ser eliminada.
 
 ---
 
-Você pode fazer o que quiser, mas não pode fazer tudo o que quiser. 
+### 7 Concentre-se nas áreas que geram resultados fundamentais
+
+- Ter clareza é essencial
+  - O ponto de partida de um ótimo desempenho é a identificação das áreas de resultados-chave
+- Atribua-se uma nota
+  - Depois de definir suas áreas de resultados-chave, o segundo passo é dar a si mesmo uma nota de 1 a 10 para cada área.
+  - A área de resultado-chave em que você é mais fraco define o padrão que você pode alcançar em todas as outras áreas.
+- O mau desempenho leva à procrastinação
+  - Se aprimorar em áreas em que se saiu mal, você pode se tornar mais produtivo.
+- A grande pergunta
+  - Que habilidade preciso desenvolver e realizar bem para exercer um grande impacto positivo na minha carreira?
+
+---
+
+### 8 Aplique a Lei das Três Tarefas
+
+Existem três tarefas essenciais sob sua responsabilidade que abrangem a maior parte do valor que você agrega. Para atingir seu potencial máximo, é fundamental identificá-las e se concentrar nelas durante a maior parte do tempo.
+
+- Escolha as três tarefa mais importantes e que dão maiores resultados para realizar durante dia inteiro.
+- Parta para a ação agora mesmo.
+- Delegue e elimine as tarefas que não são essenciais.
+
+**Perguntas para aumentar a produtividade:**
+
+1. Quais são seus três objetivos mais importantes atualmente em relação à sua carreira?
+2. Quais são seus três objetivos mais importantes atualmente em relação à sua família?
+3. Quais são seus três objetivos financeiros mais importantes atualmente?
+4. Quais são seus três objetivos de saúde mais importantes atualmente?
+5. Quais são as três áreas pessoais ou profissionais que você pretende desenvolver atualmente?
+6. Quais são seus três objetivos sociais e comunitários mais importantes atualmente?
+7. Quais são seus três maiores problemas ou preocupações atualmente?
+
+
+**Aprender a gerenciar o tempo é um meio para alcançar um objetivo:**
+
+- O que importa é a qualidade do tempo no trabalho e a quantidade de tempo em casa
+- Para manter sua vida equilibrada, quando você estiver no escritório, concentre-se e trabalhe o tempo todo. Não desperdice tempo. Cada minuto perdido em atividades improdutivas é tempo tirado do serviço que você precisa realizar com qualidade se quiser ter um desempenho de alto nível.
+
+---
+
+### 9 Prepare-seminuciosamente para o dia a dia
+
+- Uma das melhores maneiras de superar a procrastinação e fazer mais coisas em menos tempo é ter todo o material necessário à mão antes de começar o trabalho.
+- Crie um espaço de trabalho confortável.
+- Avance em direção a seus sonhos.
+- Dê o primeiro passo.
+
+---
+
+### 10 Um passo de cada vez
+
+---
+
