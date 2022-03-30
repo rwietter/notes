@@ -215,4 +215,12 @@ Quanto mais você aprende e sabe, mais confiante e motivado se sente. Quanto mai
 - Recupere seu tempo.
 - Recuse-se a ser um escravo.
 
+---
 
+### 16 Você comanda a tecnologia
+
+> Você deve se disciplinar para fazer a tecnologia servir a você, e não para servir a ela. O objetivo da tecnologia é tornar sua vida mais simples e fácil, e não criar complexidade, confusão e estresse.
+
+- Assuma o controle de sua comunicação.
+- Assuma o controle de seu tempo. Reserve pequenas pausas para conferir emails e mensagens após concluir suas tarefas.
+- Assuma o controle de suas emoções por meio da tecnologia.
