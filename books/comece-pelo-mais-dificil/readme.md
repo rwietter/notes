@@ -182,3 +182,14 @@ Quanto mais você aprende e sabe, mais confiante e motivado se sente. Quanto mai
   - O que está definindo o ritmo no qual alcanço os resultados que almejo?
 - Almeje a precisão
   - Identifique o fator limitador corretamente e elimine-o.
+
+---
+
+### 13 Ponha pressão em si mesmo
+
+> O primeiro requisito para o sucesso é a capacidade de aplicar incessantemente suas energias físicas e mentais em um problema. - Thomas Edison
+
+- Apenas cerca de 2% das pessoas podem trabalhar sem supervisão alguma. Para alcançar seu potencial pleno, incorpore a responsabilidade e não espere alguém fazer isso por você. Escolha quais tarefas você vai encarar e se obrigue a resolvê-las por ordem de importância.
+- Seja uma referência em sua área
+- Crie prazos imaginários
+  - Ao pressionar a si mesmo, você realizará mais tarefas com maior rapidez e melhor qualidade que nunca.
