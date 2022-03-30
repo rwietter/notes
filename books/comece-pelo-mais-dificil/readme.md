@@ -224,3 +224,17 @@ Quanto mais você aprende e sabe, mais confiante e motivado se sente. Quanto mai
 - Assuma o controle de sua comunicação.
 - Assuma o controle de seu tempo. Reserve pequenas pausas para conferir emails e mensagens após concluir suas tarefas.
 - Assuma o controle de suas emoções por meio da tecnologia.
+
+---
+
+### 17 Direcione sua atenção
+
+> A atenção focada é a chave para o alto desempenho. A “atração da distração” – a sedução das interrupções eletrônicas e de outros tipos – leva à concentração difusa, à mente errante, à falta de foco e, em última instância, ao fracasso.
+
+- Não realize multitarefas.
+- Elimine vicios que levam à distração.
+- Dobre sua produtividade
+  - Planeje cada dia, selecione a tarefa mais importante e difícil e comece a trabalhar nela antes de fazer qualquer outra coisa.
+  - Trabalhe sem parar por 90 minutos, sem se deixar distrair, em seguida faça uma pausa de 15 minutos.
+  - Trabalhe mais 90 minutos sem interrupções.
+  - Após as três horas de trabalho contínuo, você pode se recompensar com uma dose de dopamina, verificando seu e-mail e as mensagens no celular.
