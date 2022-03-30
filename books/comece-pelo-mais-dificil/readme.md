@@ -238,3 +238,13 @@ Quanto mais você aprende e sabe, mais confiante e motivado se sente. Quanto mai
   - Trabalhe sem parar por 90 minutos, sem se deixar distrair, em seguida faça uma pausa de 15 minutos.
   - Trabalhe mais 90 minutos sem interrupções.
   - Após as três horas de trabalho contínuo, você pode se recompensar com uma dose de dopamina, verificando seu e-mail e as mensagens no celular.
+
+---
+
+### 18 Divida a tarefa em etapas
+
+> Um hábito nasce como um fio quase invisível, mas toda vez que repetimos o ato, o fio engrossa, ganha outro filamento, até se tornar um cabo que nos prende de forma irremediável por atos e pensamentos. - Orison Swett Marden.
+
+Uma das principais razões de procrastinarmos em tarefas importantes é o fato de elas, à primeira vista, parecerem enormes. Uma técnica bastante útil para facilitar a conclusão de uma tarefa demorada é a do fatiamento: você detalha o projeto, divide-o em etapas e decide fazer apenas uma parte do trabalho por vez.
+
+- Desenvolva uma compulsão por concluir.
