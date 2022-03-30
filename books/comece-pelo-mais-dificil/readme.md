@@ -275,3 +275,32 @@ A qualidade que se destaca nas pessoas altamente eficazes é o foco na ação. E
   - Quando você trabalha focado em seus objetivos, acaba ativando o Princípio do Impulso para o Sucesso. Segundo ele, embora seja necessário muita energia para superar a inércia inicial e começar o trabalho de fato, quando você pega o impulso, passa a gastar muito menos energia para continuar a tarefa.
 - Faça isso agora!
   - Um dos modos mais simples e eficazes de se estimular a trabalhar com afinco é repetir para si mesmo a frase: “Faça isso agora!”
+
+---
+
+### 21 Uma tarefa por vez
+
+> O segredo do verdadeiro poder é aprender, por meio da prática constante, a economizar seus recursos e concentrá-los, a qualquer momento, em uma única questão. - James Allen
+
+- Quando der o primeiro passo, siga em frente e só pare quando terminar.
+- Não desperdice seu tempo.
+- Autodisciplina é essencial.
+
+---
+
+### Conclusão
+
+Para alcançar alta produtividade, você deve primeiramente:
+- Ter um objetivo.
+- Planejar sua rotina para alcançar esse objetivo.
+- Focar nas tarefas mais importantes que irão fazer você chegar cada vez mais perto de seu objetivo.
+- Usar a tecnologia e o tempo para aumentar sua produtividade
+- Manter autodiscipina e foco na ação.
+- Divida as tarefas e remova impedimentos.
+- Fique longe de coisas que lhe tomam tempo.
+
+---
+
+### Referências
+
+[Comece pelo mais difícil](https://www.amazon.com.br/Comece-pelo-dif%C3%ADcil-Brian-Tracy/dp/8543104882)
