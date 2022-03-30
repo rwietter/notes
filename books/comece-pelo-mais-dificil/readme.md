@@ -193,3 +193,16 @@ Quanto mais você aprende e sabe, mais confiante e motivado se sente. Quanto mai
 - Seja uma referência em sua área
 - Crie prazos imaginários
   - Ao pressionar a si mesmo, você realizará mais tarefas com maior rapidez e melhor qualidade que nunca.
+
+---
+
+### 14 Motive-se a agir
+
+- Para manter a motivação, escolha ser otimista. Reaja positivamente às palavras, ações e reações das pessoas e às situações ao seu redor. Não permita que os inevitáveis obstáculos da vida afetem seu humor ou suas emoções.
+- Ter autoestima é fundamental para ser uma pessoa motivada e obstinada. Quando conversar consigo mesmo, adote um tom positivo, que estimule o amor-próprio.
+- Desenvolva uma postura mental positiva
+
+
+--- 
+
+
