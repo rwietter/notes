@@ -248,3 +248,13 @@ Quanto mais você aprende e sabe, mais confiante e motivado se sente. Quanto mai
 Uma das principais razões de procrastinarmos em tarefas importantes é o fato de elas, à primeira vista, parecerem enormes. Uma técnica bastante útil para facilitar a conclusão de uma tarefa demorada é a do fatiamento: você detalha o projeto, divide-o em etapas e decide fazer apenas uma parte do trabalho por vez.
 
 - Desenvolva uma compulsão por concluir.
+
+---
+
+### 19 Estabeleça horários específicos para realizar tarefas importantes
+
+> Nada dá mais poder à sua vida do que concentrar todas as suas energias em um conjunto limitado de metas. - Nido Qubein
+
+- Programe horários específicos.
+- Use uma agenda.
+- Faça cada minuto valer a pena.
