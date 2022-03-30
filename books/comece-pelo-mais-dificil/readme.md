@@ -168,3 +168,17 @@ Quanto mais você aprende e sabe, mais confiante e motivado se sente. Quanto mai
 
 ---
 
+### 12 Identifique suas maiores limitações
+
+- Para sair de sua posição atual e alcançar qualquer meta ou objetivo, sempre é preciso superar um fator limitador essencial.
+  - O que impede seu desenvolvimento?
+  - O que define o tempo que você leva para conquistar seus objetivos?
+  - O que o impede de cumprir suas tarefaschave?
+  - Por que você ainda não atingiu sua meta?
+- O Princípio 80/20 aplicado às limitações
+  - 80% das nossas limitações (fatores que nos impedem de alcançar nossos objetivos) são internas e 20% são externas.
+- Aprenda a se avaliar
+  - O que existe dentro de mim que está impedindo meu desenvolvimento?
+  - O que está definindo o ritmo no qual alcanço os resultados que almejo?
+- Almeje a precisão
+  - Identifique o fator limitador corretamente e elimine-o.
