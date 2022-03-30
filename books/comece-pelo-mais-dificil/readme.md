@@ -258,3 +258,20 @@ Uma das principais razões de procrastinarmos em tarefas importantes é o fato d
 - Programe horários específicos.
 - Use uma agenda.
 - Faça cada minuto valer a pena.
+
+---
+
+### 20 Desenvolva um senso de urgência
+
+> Não espere; o momento nunca será “perfeito”. Comece por onde você está agora e utilize as ferramentas ao seu dispor. Você encontrará outras melhores à medida que avançar. - Napoelon Hill
+
+A qualidade que se destaca nas pessoas altamente eficazes é o foco na ação. Elas têm pressa para terminar suas tarefas mais importantes. Antes disso, porém, pensam, planejam e estabelecem prioridades. Só depois avançam com rapidez e determinação em direção a suas metas. Para isso, trabalham de maneira consistente e estável. Como resultado, parecem cumprir inúmeras tarefas enquanto uma pessoa comum perde tempo em atividades menos essenciais.
+
+- Encontre o estado de fluxo (Flow)
+  - Quando você realiza suas tarefas mais importantes com qualidade e de modo contínuo, pode acabar entrando no estado mental chamado de “fluxo”, ou “flow” (o mais alto nível de desempenho e produtividade). Quase todos já tiveram essa sensação em algum momento, mas pessoas bem-sucedidas entram nesse estado com mais frequência que as demais.
+- Alcance seu desempenho máximo
+  - Uma das maneiras de alcançar o estado de fluxo é desenvolvendo um senso de urgência – um estímulo interno, um desejo de dar prosseguimento ao trabalho e terminá-lo rapidamente, uma espécie de “impaciência” que motiva você a terminar as tarefas que inicia. A sensação é de apostar corrida contra si mesmo.
+- Desenvolva um senso de oportunidade
+  - Quando você trabalha focado em seus objetivos, acaba ativando o Princípio do Impulso para o Sucesso. Segundo ele, embora seja necessário muita energia para superar a inércia inicial e começar o trabalho de fato, quando você pega o impulso, passa a gastar muito menos energia para continuar a tarefa.
+- Faça isso agora!
+  - Um dos modos mais simples e eficazes de se estimular a trabalhar com afinco é repetir para si mesmo a frase: “Faça isso agora!”
