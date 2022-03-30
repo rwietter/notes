@@ -203,6 +203,16 @@ Quanto mais você aprende e sabe, mais confiante e motivado se sente. Quanto mai
 - Desenvolva uma postura mental positiva
 
 
---- 
+---
+
+### 15 A tecnologia não comanda sua vida
+
+> A tecnologia pode ser sua melhor amiga ou sua pior inimiga. Ela se torna um adversário quando nos entregamos à necessidade obsessiva de nos comunicar a todo momento. Essa compulsão por permanecer conectado nos deixa psicologicamente sem fôlego. Não temos tempo para parar, sentir o aroma das flores e organizar nossos pensamentos. Quando as pessoas estão conectadas demais, as diversas tecnologias de comunicação rapidamente se tornam um vício destrutivo.
+
+- O segredo é manter seu relacionamento com a tecnologia sob controle. Escolha momento para se desconectar da tecnologia.
+- Para você permanecer calmo, lúcido e plenamente eficaz, procure se afastar da tecnologia com certa regularidade.
+- Evite a dependência.
+- Recupere seu tempo.
+- Recuse-se a ser um escravo.
 
 
