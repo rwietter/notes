@@ -210,7 +210,6 @@
 
 ### Study
 
-- [CSS-Cheatsheets](https://github.com/AakashRao-dev/CSS-Cheatsheets)
 - [ ] Computer architecture
   - [ ] MVC
   - [ ] Clean code

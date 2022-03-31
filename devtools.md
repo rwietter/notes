@@ -36,10 +36,11 @@
 - 🔧 [Tree directory graph](https://tree.nathanfriend.io/)
 - [Ecmascript compatible features](https://kangax.github.io/compat-table/esnext/)
 
-#### development tools
+#### development tools/helpers
 
 - 🔧 [Sketchpad](https://sketch.io/sketchpad/)
 - 🔧 [CSS Houdini](https://houdini.how/)
+- 🔧 [CSS-Cheatsheets](https://github.com/AakashRao-dev/CSS-Cheatsheets)
 - 🔧 [GitBook](https://www.gitbook.com/)
 - 🔧 [Miro](https://miro.com/mind-map-software/)
 - 🔧 [Pagespeed](https://developers.google.com/speed/pagespeed/insights/?hl=pt-br)
