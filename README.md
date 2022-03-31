@@ -210,7 +210,6 @@
 
 ### Study
 
-- [Clean Code Javascript](https://github.com/felipe-augusto/clean-code-javascript)
 - [CSS-Cheatsheets](https://github.com/AakashRao-dev/CSS-Cheatsheets)
 - [ ] Computer architecture
   - [ ] MVC
