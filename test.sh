@@ -5,7 +5,7 @@ push_main () {
 }
 
 if [ $2 = "push_all" ]; then
-  push_main "$2"
+  push_main "$4"
 else
   echo "Not a valid option"
 fi
