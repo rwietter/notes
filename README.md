@@ -45,6 +45,7 @@
 - Abstraction
 - Finite-state machine
 - Idempotent logic
+- Observability
 
 
 ## Data Structures
@@ -212,7 +213,7 @@
 
 - [ ] Computer architecture
   - [x] MVC
-  - [ ] Clean code
+  - [ ] Clean Architecture
   - [ ] Hexagonal Architecture
   - [ ] DDD (Domain Driven Design)
 - [ ] Mathematical logic
