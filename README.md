@@ -211,7 +211,7 @@
 ### Study
 
 - [ ] Computer architecture
-  - [ ] MVC
+  - [x] MVC
   - [ ] Clean code
   - [ ] Hexagonal Architecture
   - [ ] DDD (Domain Driven Design)
