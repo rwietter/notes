@@ -5,7 +5,7 @@ A arquitetura MVC visa separar as responsabilidades em diferentes camadas:
 - View
 - Controller
 
-Quando o usuário faz uma request, o controller responsável pela request do client informará ao servidor o que fazer com a request. Ele atua entre a Model e o View. O Controller socilita ao model que irá conter a lógica de negócio para retornar as informações necessárias solicitadas pela requisição. O Model é responsável pelo acesso ao banco de dados e validações. Então, o model retorna os dados requisitado para o controller que irá interagir com a View para renderizar os dados para o client, ou seja, a view só está preocupada em como os dados serão exibidos para o client. A view retornar uma representação visual para o controller que irá renderizar os dados para o client.
+Quando o usuário faz uma request, o controller responsável pela request do client informará ao servidor o que fazer com a request. Ele atua entre a Model e a View. O Controller solicita ao model, que irá conter a lógica de negócio, para retornar as informações necessárias solicitadas pela requisição. O Model é responsável pelo acesso ao banco de dados e validações. Assim, o model retornará os dados requisitado para o controller que irá interagir com a View para renderizar os dados para o client, ou seja, a view só está preocupada em como os dados serão exibidos para o client. A view retornará uma representação visual para o controller que irá enviar a view para o client.
 
 Observações, o model e a view nunca devem interagir entre si:
 - Client -> Controller -> Model
