@@ -70,7 +70,6 @@ Grid
 - ⌘ [Appcumbuca](https://github.com/appcumbuca/desafios/tree/master)
 - ⌘ [Desafio pickpay backend](https://github.com/PicPay/picpay-desafio-backend)
 - ⌘ [Backend](https://github.com/eduwr/backend-challenge)
-- ⌘ []()
 - ⌘ [Frontend Mentor](https://www.frontendmentor.io/challenges)
 - ⌘ [He4rtLabs Challenges](https://github.com/he4rt/heartlabs-challenges)
 - ⌘ [Frontend Challenges](https://github.com/felipefialho/frontend-challenges)
