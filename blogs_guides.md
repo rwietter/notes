@@ -66,6 +66,11 @@ Grid
 ### Challenges
 
 - ⌘ [Code signal](https://app.codesignal.com/)
+- ⌘ [Backend Challenges](https://github.com/CollabCodeTech/backend-challenges)
+- ⌘ [Appcumbuca](https://github.com/appcumbuca/desafios/tree/master)
+- ⌘ [Desafio pickpay backend](https://github.com/PicPay/picpay-desafio-backend)
+- ⌘ [Backend](https://github.com/eduwr/backend-challenge)
+- ⌘ []()
 - ⌘ [Frontend Mentor](https://www.frontendmentor.io/challenges)
 - ⌘ [He4rtLabs Challenges](https://github.com/he4rt/heartlabs-challenges)
 - ⌘ [Frontend Challenges](https://github.com/felipefialho/frontend-challenges)
