@@ -8,7 +8,11 @@
 
 ### Instalando Rust
 
-`curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
+```bash
+# Add export PATH="$HOME/.cargo/bin:$PATH" to .zhrc
+
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
 
 ---
 
@@ -18,6 +22,8 @@
 - [The Rust Programming Language](https://doc.rust-lang.org/stable/book/)
 - [A Linguagem de Programação Rust](https://livro.rustbr.org/)
 - [Rustlings](https://github.com/rust-lang/rustlings)
+- [Rust4Noobs](https://github.com/pgjbz/rust4noobs)
+- [Crust of Rust](https://www.youtube.com/watch?v=rAl-9HwD858&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa)
 - [Meet Rocket](https://rocket.rs/)
 
 ---
@@ -30,13 +36,10 @@
   - teste seu projeto com `cargo test`
   - gere a documentação do seu projeto com `cargo doc`
   - publique sua biblioteca em crates.io com `cargo publish`
-- RLS: editor de código fonte de Rust
-- Racer: busca de sintaxe de Rust
-- Rustfmt: formatação de código Rust
-- Rustup: gerenciador de versões de Rust
-- Rustup-init: gerenciador de versões de Rust
-- Rust-docs: documentação de Rust
-- Clippy: ferramenta de análise de código Rust
+- RLS: Rust Language Server
+- Racer: code completion
+- Rustfmt: format rust code
+- Rustup: Rust toolchain installer
 
 ---
 

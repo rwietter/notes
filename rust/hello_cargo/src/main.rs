@@ -3,6 +3,10 @@ fn main() {
   let y = 10;
   let sum = x + y;
   
+  for elem in [1,2,3] {
+    print!("{}\n", elem);
+  }
+  
   println!("Sum of {} + {} = {}", x, y, sum);
 }
 
