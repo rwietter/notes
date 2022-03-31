@@ -9,15 +9,15 @@ add_commit () {
     git commit -m $1
 }
 
-if [[ $op -eq 'push_all' ]]
+if [[ $2 == 'push_all' ]]
 then
   push_main "$4"
-elif [[ $op -eq 'add_commit' ]]
+elif [[ $2 == 'add_commit' ]]
 then
   add_commit "$4"
-elif [[ $op -eq '--help' ]]
+elif [[ $1 == '--help' ]]
 then
-  echo "Usage: ./test.sh [push_all|add_commit] [commit_message]"
+  echo "Usage: ./test.sh --op [push_all|add_commit] --msg [commit_message]"
 else
-  echo "Not a valid option"
+  echo "Invalid option"
 fi
