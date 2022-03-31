@@ -6,3 +6,7 @@
 ## Read
 
 - [Comece pelo mais difícil](https://www.amazon.com.br/Comece-pelo-dif%C3%ADcil-Brian-Tracy/dp/8543104882)
+
+## Summary
+
+- [Comece pelo mais difícil](comece-pelo-mais-dificil/readme.md)
