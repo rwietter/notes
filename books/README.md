@@ -1,0 +1,1 @@
+- [Structure and Interpretation of Classical Mechanics, Second Edition](https://mitpress.mit.edu/books/structure-and-interpretation-classical-mechanics-second-edition)

@@ -28,6 +28,7 @@
 
 #### Favorite Tools
 
+- 🔧 [Ray](https://ray.so/)
 - 🔧 [Khroma AI Color Generator](khroma.co/generator/)
 - 🔧 [CodeFactor](https://www.codefactor.io/dashboard)
 - 🔧 [Js Perf](https://perf.link/)

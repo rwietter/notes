@@ -53,6 +53,7 @@ Grid
 - ✎ [Devart](https://devart.withgoogle.com/pt#/project/17660101?q=javascript%20java%20c%2B%2B)
 - ✎ [24ways](https://24ways.org/)
 - ✎ [Mathias Bynens](https://mathiasbynens.be/)
+- ✎ [Guto Carvalho](https://gutocarvalho.net/)
 - ✎ [Javascript for cats](http://jsforcats.com/)
 - ✎ [David Walsh Blog](https://davidwalsh.name/)
 - ✎ [Marius Schulz](https://mariusschulz.com/blog)

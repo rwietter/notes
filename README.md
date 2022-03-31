@@ -210,8 +210,15 @@
 
 ### Study
 
+- [Clean Code Javascript](https://github.com/felipe-augusto/clean-code-javascript)
+- [CSS-Cheatsheets](https://github.com/AakashRao-dev/CSS-Cheatsheets)
 - [ ] Computer architecture
+  - [ ] MVC
+  - [ ] Clean code
+  - [ ] Hexagonal Architecture
+  - [ ] DDD (Domain Driven Design)
 - [ ] Mathematical logic
+  - [ ] An Introduction to Functional Programming Through Lambda Calculus
 - [ ] Type theory
 - [ ] Relational databases
 - [ ] Structured Storage
