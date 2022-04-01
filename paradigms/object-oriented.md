@@ -1,0 +1,11 @@
+- A Programação Orientada a Objetos (OOP) é um paradigma no qual objetos do mundo real são vistos como entidades separadas que têm seu próprio estado, que é modificado apenas por procedimentos incorporados, chamados métodos.
+- Como os objetos operam de forma independente, eles são encapsulados em módulos que contêm ambientes e métodos locais. A comunicação com um objeto é feita por mensagem. Os objetos são organizados em classes, das quais herdam métodos e variáveis equivalentes. O paradigma orientado a objetos fornece benefícios fundamentais da extensibilidade de código e código reutilizável.
+
+---
+
+Características e Benefícios:
+
+- Uma nova classe (chamada de classe derivada ou subclasse) pode ser derivada de outra classe (chamada de classe base ou superclasse) por um mecanismo chamado **herança**. A classe derivada **herda** todas as características da classe base: sua estrutura e comportamento (resposta às mensagens). Além disso, a classe derivada pode conter estado adicional (variáveis de instância) e pode apresentar comportamento adicional (novos métodos para responder para novas mensagens). Significativamente, a classe derivada também pode **substituir o comportamento** correspondente a alguns dos métodos da classe base: haveria um método diferente para r**esponder à mesma mensagem**. Além disso, o mecanismo de herança é permitido mesmo sem acesso ao código fonte da classe base.
+- A capacidade de usar a herança é a característica mais distintiva do paradigma OOP. A herança dá ao OOP seu principal benefício sobre outros paradigmas de programação - reaproveitamento e extensão de código relativamente fáceis sem a necessidade de alterar o código-fonte existente.
+- O mecanismo de modelagem de um programa como uma coleção de objetos de várias classes, e além disso descrevendo muitas classes como extensões ou modificações de outras classes, proporciona um alto grau de modularidade.
+- Idealmente, o estado de um objeto é manipulado e acessado apenas pelos métodos desse objeto. (A maioria das línguas OO permitem manipulação direta do Estado, mas esse acesso é estilisticamente desencorajado). Desta forma, a interface de uma classe (como objetos dessa classe são acessados) é separada da implementação da classe (o código real dos métodos da classe). Assim, o encapsulamento e a ocultação de informações são benefícios inerentes ao OOP.
