@@ -30,7 +30,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 ### Tooling
 
-- [Cargo](https://doc.rust-lang.org/cargo/index.html): gerenciador de pacotes Rust
+- [Cargo](https://doc.rust-lang.org/cargo/index.html): é o gestor de sistemas e pacotes da linguagem Rust
   - compile seu projeto com `cargo build`
   - execute seu projeto com `cargo run`
   - teste seu projeto com `cargo test`
@@ -48,6 +48,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 - Para compilar e executar basta executar `rustc index.rs`
 - Para compilar a aplicação em uma rede, basta executar `cargo build --release`
 - Para executar a aplicação com watch mode, basta instalar o cargo-watch com `cargo install cargo-watch` e executar `cargo watch -x run`
+- `cargo check` verificará rapidamente seu código para garantir que ele seja compilado corretamente.
 
 ```rust
 /* init point to start with rust */
@@ -59,3 +60,9 @@ fn main() {
   println!("Sum of {} + {} = {}", x, y, sum);
 }
 ```
+
+---
+
+Observações:
+
+- Em Rust, pacotes de código são referidos como crates
