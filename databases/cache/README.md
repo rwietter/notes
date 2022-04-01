@@ -1,2 +1,3 @@
 - [Ioredis](https://github.com/luin/ioredis)
 - [Memcached](https://memcached.org/)
+- [bitnami/redis](https://hub.docker.com/r/bitnami/redis/)
