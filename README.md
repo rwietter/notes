@@ -47,7 +47,6 @@
 - Idempotent logic
 - Observability
 
-
 ## Data Structures
 
 - Hash Table
