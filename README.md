@@ -221,6 +221,13 @@
 - [ ] Relational databases
 - [ ] Structured Storage
 
+```typescript{1,3-4}
+const help = "help";
+
+const world: string = "";
+const help = "help";
+```
+
 ---
 
 ### References

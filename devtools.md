@@ -29,6 +29,7 @@
 #### Favorite Tools
 
 - 🔧 [Ray](https://ray.so/)
+- 🔧 [Turborepo](https://turborepo.org/)
 - 🔧 [Standard linter](https://standardjs.com/)
 - 🔧 [Khroma AI Color Generator](khroma.co/generator/)
 - 🔧 [CodeFactor](https://www.codefactor.io/dashboard)

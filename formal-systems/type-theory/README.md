@@ -75,3 +75,4 @@ Um exemplo de um termo lambda é esta função que duplica seu argumento `(λ x:
 - [Calculus of constructions](https://en.wikipedia.org/wiki/Calculus_of_constructions)
 - [Constructivism (philosophy of mathematics)](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_mathematics))
 - [Homotopy type theory](https://en.wikipedia.org/wiki/Homotopy_type_theory)
+- [Refinement type](https://en.wikipedia.org/wiki/Refinement_type)
