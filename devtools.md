@@ -29,7 +29,9 @@
 #### Favorite Tools
 
 - 🔧 [Ray](https://ray.so/)
+- 🔧 [Cheatsheets](https://devhints.io/)
 - 🔧 [Turborepo](https://turborepo.org/)
+- 🔧 [Code explanation](https://denigma.app/#demo)
 - 🔧 [Page speed](https://pagespeed.web.dev/)
 - 🔧 [Web measure](https://web.dev/measure/)
 - 🔧 [Standard linter](https://standardjs.com/)
@@ -43,13 +45,23 @@
 
 - 🔧 [Sketchpad](https://sketch.io/sketchpad/)
 - 🔧 [CSS Houdini](https://houdini.how/)
+- 🔧 [SQL Test](https://sqltest.net/)
 - 🔧 [CSS-Cheatsheets](https://github.com/AakashRao-dev/CSS-Cheatsheets)
 - 🔧 [GitBook](https://www.gitbook.com/)
 - 🔧 [Miro](https://miro.com/mind-map-software/)
+- 🔧 [Mock fake database data](https://www.mockaroo.com/)
 - 🔧 [Pagespeed](https://developers.google.com/speed/pagespeed/insights/?hl=pt-br)
 - 🔧 [[Grid Guide](https://grid.malven.co/)
 - 🔧 [Figma](https://www.figma.com/)
 - 🔧 [Hostinger domain](https://hpanel.hostinger.com/domain/rwietter.xyz/domain-overview)
+- 🔧 [Storybook](https://hpanel.hostinger.com/domain/rwietter.xyz/domain-overview)
+- 🔧 [Wrappixel templates](https://www.wrappixel.com/)
+- 🔧 [Bit dev](https://bit.dev/)
+- 🔧 [Copy ai](https://app.copy.ai/) <!-- generate marketing copy in seconds. -->
+- 🔧 [AWS cloudping info](https://cloudping.info/)
+- 🔧 [Rextester](https://rextester.com/)
+- 🔧 [Regex 101](https://regex101.com/)
+- 🔧 [Roadmap Study](https://roadmap.sh/)
 
 #### Performance
 

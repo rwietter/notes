@@ -221,12 +221,13 @@
 - [ ] Relational databases
 - [ ] Structured Storage
 
-```typescript{1,3-4}
-const help = "help";
+---
 
-const world: string = "";
-const help = "help";
-```
+#### 3 React projects you must build in order to learn APIs.
+
+1. The Weather App
+2. Crypto Currency Apps
+3. Movie Display / Rating App
 
 ---
 
