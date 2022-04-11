@@ -30,6 +30,8 @@
 
 - 🔧 [Ray](https://ray.so/)
 - 🔧 [Turborepo](https://turborepo.org/)
+- 🔧 [Page speed](https://pagespeed.web.dev/)
+- 🔧 [Web measure](https://web.dev/measure/)
 - 🔧 [Standard linter](https://standardjs.com/)
 - 🔧 [Khroma AI Color Generator](khroma.co/generator/)
 - 🔧 [CodeFactor](https://www.codefactor.io/dashboard)
@@ -47,6 +49,7 @@
 - 🔧 [Pagespeed](https://developers.google.com/speed/pagespeed/insights/?hl=pt-br)
 - 🔧 [[Grid Guide](https://grid.malven.co/)
 - 🔧 [Figma](https://www.figma.com/)
+- 🔧 [Hostinger domain](https://hpanel.hostinger.com/domain/rwietter.xyz/domain-overview)
 
 #### Performance
 
