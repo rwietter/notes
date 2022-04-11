@@ -46,7 +46,7 @@
 - 📙 [Data Structures](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/)
 - 📙 [BoundedContext](https://www.martinfowler.com/bliki/BoundedContext.html)
 - 📙 [Speculation in Javascriptcore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)
-- 📙 [JavaScript Visualized - events](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
+- 📙 [Difference between microtask and macrotask within an event loop context](https://stackoverflow.com/questions/25915634/difference-between-microtask-and-macrotask-within-an-event-loop-context#:~:text=A%20macro%20task%20represents%20some,callbacks%20and%20DOM%20mutation%20changes.)
 - 📙 [Improving the Accessibility of 24 ways](https://css-tricks.com/improving-accessibility-24-ways/)
 - 📙 [Emmet Docs](https://docs.emmet.io/abbreviations/implicit-names/)
 - 📙 [CSS after and before](https://www.freecodecamp.org/news/css-before-and-after-how-to-use-the-content-property/)
@@ -72,6 +72,7 @@
 
 ### Finish
 
+- ✅ [JavaScript Visualized - events](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 - ✅ [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react?ck_subscriber_id=1078972114)
 - ✅ [How to useRef to Fix React Performance Issues](https://dev.to/notsidney/how-to-useref-to-fix-react-performance-issues-e8p)
 - ✅ [Dependency Injection or Inversion](https://daedtech.com/dependency-injection-or-inversion/)
