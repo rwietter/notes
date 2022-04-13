@@ -1,16 +1,10 @@
 ## Lambda Calculus
 
-Uma abstração lambda é um tipo de expressão que denota uma função:
-
-```
-(λx. + x 1)
-```
-
-O λ determina que existe uma função, e é imediatamente seguido por uma variável, denominada parâmetro formal da função.
+Uma abstração lambda é um tipo de expressão que denota uma função. O λ determina que existe uma função, e é imediatamente seguido por uma variável, denominada parâmetro formal da função.
 
 ```bash
-# A função de x que incrementa x de 1
-(λx. + x 1)
+λx. x + 1 # f(x) -> x + 1
+(λx. λy. 5 + y) 2 # f(x) -> f(y) -> 5 + 2
 
 # Examples
 (λx. x) y

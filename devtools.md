@@ -32,6 +32,7 @@
 - 🔧 [Cheatsheets](https://devhints.io/)
 - 🔧 [Turborepo](https://turborepo.org/)
 - 🔧 [Code explanation](https://denigma.app/#demo)
+- 🔧 [zxcvbn](https://github.com/dropbox/zxcvbn)
 - 🔧 [Page speed](https://pagespeed.web.dev/)
 - 🔧 [Web measure](https://web.dev/measure/)
 - 🔧 [Standard linter](https://standardjs.com/)
@@ -44,6 +45,7 @@
 #### development tools/helpers
 
 - 🔧 [Sketchpad](https://sketch.io/sketchpad/)
+- 🔧 [Email Sandbox Service](https://mailtrap.io/)
 - 🔧 [CSS Houdini](https://houdini.how/)
 - 🔧 [SQL Test](https://sqltest.net/)
 - 🔧 [CSS-Cheatsheets](https://github.com/AakashRao-dev/CSS-Cheatsheets)
@@ -62,6 +64,7 @@
 - 🔧 [Rextester](https://rextester.com/)
 - 🔧 [Regex 101](https://regex101.com/)
 - 🔧 [Roadmap Study](https://roadmap.sh/)
+- 🔧 [GNU Stow](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html)
 
 #### Performance
 

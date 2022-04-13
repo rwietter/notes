@@ -1,6 +1,19 @@
 colors:
-  dark: '#13141c'
-  dark-medium: '#202230'
-  green: '#27c940'
+  halfdark:
+    primary: '#13141c'
+    secondary: '#202230'
+  bigdark:
+    black: '#08070b'
+    secondary: '#8f9ba8'
+    hover: '#212024'
+    cyan: '#80ffea'
+    purple: '#9580ff'
+    orange: '#ffca80'
+    green: '#8aff80'
+    pink: '#ff80bf'
+    red: '#ff9580'
+  darkblue:
+    dark: '#121923'
+    hover: '#1c2430'
 shadow:
   box-shadow: '0 1px 30px 0 rgb(2 2 3 / 70%)'

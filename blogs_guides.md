@@ -50,6 +50,7 @@ Grid
 - ✎ [Willian Justen](https://willianjusten.com.br/)
 - ✎ [Rocketseat](https://blog.rocketseat.com.br/)
 - ✎ [Sibelius](https://sibelius.substack.com/)
+- ✎ [Sébastien Lorber's](https://sebastienlorber.com/)
 - ✎ [Devart](https://devart.withgoogle.com/pt#/project/17660101?q=javascript%20java%20c%2B%2B)
 - ✎ [24ways](https://24ways.org/)
 - ✎ [Mathias Bynens](https://mathiasbynens.be/)
