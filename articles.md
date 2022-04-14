@@ -1,4 +1,4 @@
-### To Learning
+### Reading
 
 - 📙 [Roy Fielding's REST dissertation](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 - 📙 [You should be reading academic computer science papers](https://stackoverflow.blog/2022/04/07/you-should-be-reading-academic-computer-science-papers/)
@@ -24,6 +24,8 @@
 - 📙 [CS240](https://web.stanford.edu/class/cs240/)
 
 
+- 📙 [Macros](https://en.wikipedia.org/wiki/Macro_(computer_science))
+- 📙 [JavaScript function composition: What’s the big deal?](https://jrsinclair.com/articles/2022/javascript-function-composition-whats-the-big-deal/#fn:3)
 - 📙 [Architect Elevator](https://martinfowler.com/articles/architect-elevator.html)
 - 📙 [Application Boundary](https://martinfowler.com/bliki/ApplicationBoundary.html)
 - 📙 [Microservices Guide](https://martinfowler.com/microservices)
@@ -70,7 +72,7 @@
 - 📙 [Headers HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Headers)
 
 
-### Finish
+### Read
 
 - ✅ [JavaScript Visualized - events](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 - ✅ [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react?ck_subscriber_id=1078972114)
@@ -82,6 +84,7 @@
 - ✅ [Compilers are the new frameworks](https://tomdale.net/2017/09/compilers-are-the-new-frameworks/#:~:text=My%20current%20%E2%80%9Cinvestment%20thesis%E2%80%9D%20is,the%20point%20of%20diminishing%20returns.)
 - ✅ [Native Lazy Loading](https://addyosmani.com/blog/lazy-loading/)
 - ✅ [Css Tricks - width](https://css-tricks.com/almanac/properties/w/width/)
+- ✅ [Você não entende o shell se não sabe como ele processa os comandos](https://debxp.org/voce-nao-entende-o-shell-se-nao-sabe-como-ele-processa-os-comandos/)
 - ✅ [Trampolines](https://blog.logrocket.com/using-trampolines-to-manage-large-recursive-loops-in-javascript-d8c9db095ae3/)
 - ✅ [Logical Assignment Operators](https://2ality.com/2020/06/logical-assignment-operators.html)
 - ✅ [Color Theory](https://tallys.github.io/color-theory/)

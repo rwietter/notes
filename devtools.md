@@ -78,3 +78,11 @@
 #### Frameworks
 
 - [Factor](https://github.com/FactorJS/factor)
+
+#### Graphql
+
+- [Prisma TypeGraphQL](https://prisma.typegraphql.com/docs/intro)
+
+#### Cloud
+
+- [Amazon Lightsail](https://aws.amazon.com/pt/lightsail/)

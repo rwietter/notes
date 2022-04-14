@@ -40,6 +40,7 @@ Grid
 - ✎ [V8 Features](https://v8.dev/features)
 - ✎ [Kent C. Dodds](https://kentcdodds.com/blog/)
 - ✎ [2ality](https://2ality.com/)
+- ✎ [Vitor's Almeida](https://vitorsalmeida.com/)
 - ✎ [Aligator](https://alligator.io/)
 - ✎ [Robin Wieruch](https://www.robinwieruch.de/)
 - ✎ [CSS Tricks](https://css-tricks.com/)
