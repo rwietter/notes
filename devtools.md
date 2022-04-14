@@ -42,7 +42,7 @@
 - 🔧 [CodeFactor](https://www.codefactor.io/dashboard)
 - 🔧 [Js Perf](https://perf.link/)
 - 🔧 [Tree directory graph](https://tree.nathanfriend.io/)
-- [Ecmascript compatible features](https://kangax.github.io/compat-table/esnext/)
+- 🔧 [Ecmascript compatible features](https://kangax.github.io/compat-table/esnext/)
 
 #### development tools/helpers
 
@@ -54,8 +54,9 @@
 - 🔧 [GitBook](https://www.gitbook.com/)
 - 🔧 [Miro](https://miro.com/mind-map-software/)
 - 🔧 [Mock fake database data](https://www.mockaroo.com/)
+- 🔧 [JSON fake generator](https://json-generator.com/)
 - 🔧 [Pagespeed](https://developers.google.com/speed/pagespeed/insights/?hl=pt-br)
-- 🔧 [[Grid Guide](https://grid.malven.co/)
+- 🔧 [Grid Guide](https://grid.malven.co/)
 - 🔧 [Figma](https://www.figma.com/)
 - 🔧 [Hostinger domain](https://hpanel.hostinger.com/domain/rwietter.xyz/domain-overview)
 - 🔧 [Storybook](https://hpanel.hostinger.com/domain/rwietter.xyz/domain-overview)
