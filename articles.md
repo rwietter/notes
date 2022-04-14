@@ -74,6 +74,7 @@
 
 ### Read
 
+- ✅ [Svelte 3: Guia para o Desenvolvedor (React) Impaciente](https://dev.to/oieduardorabelo/svelte-3-guia-para-o-desenvolvedor-react-impaciente-52i5)
 - ✅ [JavaScript Visualized - events](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 - ✅ [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react?ck_subscriber_id=1078972114)
 - ✅ [How to useRef to Fix React Performance Issues](https://dev.to/notsidney/how-to-useref-to-fix-react-performance-issues-e8p)
