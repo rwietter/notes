@@ -36,6 +36,7 @@ Grid
 
 - ✎ [V8dev](https://v8.dev/blog)
 - ✎ [TC39.es Proposals Blog](https://tc39.es/#proposals)
+- ✎ [Marie Starck](https://mariestarck.com/)
 - ✎ [TC39 Proposals Github](https://github.com/tc39/proposals)
 - ✎ [V8 Features](https://v8.dev/features)
 - ✎ [Kent C. Dodds](https://kentcdodds.com/blog/)
