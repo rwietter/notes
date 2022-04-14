@@ -34,14 +34,14 @@ const props = {
 
 ---
 
-### Passando dados do componente owner para o slot
+### Passando dados do componente child para component owner via slot
 
 ```jsx
 // Fetch component
+<script>
 import { onMount } from "svelte";
 
 export let url = "https://academy.valentinog.com/api/link/";
-export let title = "A list of links";
 let data = [];
 
 onMount(async function() {
@@ -49,19 +49,21 @@ onMount(async function() {
   const json = await response.json();
   data = json;
 });
+</script>
 
-// {data} é um atalho para data={data}
-<Slot {data} />
+<slot { data } />
 ```
 
 ```jsx
-// Slot component
-import Fetch from "./Fetch.svelte";
+// App component
+<script>
+import Fetch from "./fetch.svelte";
+	
 const props = {
   url: "https://jsonplaceholder.typicode.com/todos"
 };
+</script>
 
-// "let:data" é como encaminhar os dados internos de um componente um nível para cima.
 <Fetch {...props} let:data>
   <h1>A list of todos</h1>
   <ul>
@@ -71,6 +73,30 @@ const props = {
   </ul>
 </Fetch>
 ```
+
+---
+
+### Slot
+
+[Slot](https://svelte.dev/tutorial/slot-props) funciona semelhante ao `children` do React e podemos fazer o fluxo bidirecional de dados, passando dados do componente child para o owner. 
+
+```jsx
+// App.svelte
+<script>
+	import Box from './Box.svelte';
+</script>
+
+<Box>
+	<h2>Hello!</h2>
+	<p>This is a box. It can contain anything.</p>
+</Box>
+
+// Box.svelte
+<div class="box">
+	<slot></slot>
+</div>
+```
+
 
 ---
 
