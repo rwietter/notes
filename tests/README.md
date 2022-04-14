@@ -30,3 +30,8 @@ Nota: O Desenvolvimento Orientado a Testes de Aceitação é muito semelhante ao
 - Automatizando os casos de teste de aceitação.
 - Focando no desenvolvimento desses casos de requisitos
 
+---
+
+### Tests
+
+> test && commit || revert - \Kent Beck
