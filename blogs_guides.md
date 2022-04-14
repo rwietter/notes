@@ -52,6 +52,7 @@ Grid
 - ✎ [Rocketseat](https://blog.rocketseat.com.br/)
 - ✎ [Sibelius](https://sibelius.substack.com/)
 - ✎ [Sébastien Lorber's](https://sebastienlorber.com/)
+- ✎ [Rigille](https://rigille.github.io/blog/)
 - ✎ [Devart](https://devart.withgoogle.com/pt#/project/17660101?q=javascript%20java%20c%2B%2B)
 - ✎ [24ways](https://24ways.org/)
 - ✎ [Mathias Bynens](https://mathiasbynens.be/)
