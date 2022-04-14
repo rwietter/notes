@@ -74,6 +74,8 @@
 
 ### Read
 
+- ✅ [test && commit || revert](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864)
+- ✅ [https://medium.com/appcumbuca/j%C3%A1-sei-rest-deveria-aprender-graphql-768fcb9a93b6](https://medium.com/appcumbuca/j%C3%A1-sei-rest-deveria-aprender-graphql-768fcb9a93b6)
 - ✅ [Svelte 3: Guia para o Desenvolvedor (React) Impaciente](https://dev.to/oieduardorabelo/svelte-3-guia-para-o-desenvolvedor-react-impaciente-52i5)
 - ✅ [JavaScript Visualized - events](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 - ✅ [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react?ck_subscriber_id=1078972114)

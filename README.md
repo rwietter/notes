@@ -198,8 +198,8 @@
 
 ## Data Fetching
 
-- Over-fetching
-- Under-fetching
+- Over-fetching (trazer mais informação do que o necessário)
+- Under-fetching (trazer menos informação que o necessário, obrigando a realização de chamadas adicionais)
 - Two-way databinding
 
 ## Agile
