@@ -15,6 +15,7 @@
 - 🔧 [Roadmaps](https://roadmap.sh/)
 - 🔧 [Paletton](http://paletton.com/#uid=14i0u0kcflZ0HBQ5yqUkTizCch6)
 - 🔧 [svg path editor](https://yqnn.github.io/svg-path-editor/)
+- 🔧 [Floating UI](https://floating-ui.com/)
 
 #### Metrics
 
@@ -36,6 +37,7 @@
 - 🔧 [Page speed](https://pagespeed.web.dev/)
 - 🔧 [Web measure](https://web.dev/measure/)
 - 🔧 [Standard linter](https://standardjs.com/)
+- 🔧 [Security Checklist](https://github.com/Lissy93/personal-security-checklist)
 - 🔧 [Khroma AI Color Generator](khroma.co/generator/)
 - 🔧 [CodeFactor](https://www.codefactor.io/dashboard)
 - 🔧 [Js Perf](https://perf.link/)
