@@ -1,4 +1,18 @@
-### Study
+## Current projects
+
+- [ ] My Awesome
+- [ ] Shortcut key
+- [ ] Music Landing Page
+
+---
+
+## Future projects
+
+- [ ] Blog to post my thoughts using Next, [GraphQL](https://www.apollographql.com/blog/apollo-client/next-js/next-js-getting-started/) and [Strapi](https://strapi.io/blog/build-a-blog-with-next-react-js-strapi) CMS inspired by [zeasy](https://zeasy.dev/blog/the-hardest-one)
+
+---
+
+## Study
 
 **Important**
 - [ ] English
