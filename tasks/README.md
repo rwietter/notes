@@ -1,8 +1,18 @@
+## ToDo April
+
+- [ ] Leitura: A arte de resolver problemas um novo aspecto do método matemático
+- [ ] Course Clean Architecture
+- [ ] Course React
+
+---
+
 ## Current projects
 
 - [ ] My Awesome
 - [ ] Shortcut key
 - [ ] Music Landing Page
+
+String("O  compartilhamento  de  um  banco  de  dados  permite que   diversos   usuários   e   programas   acessem-no          simultaneamente").split(" ").filter(el => el).join(' ')
 
 ---
 
