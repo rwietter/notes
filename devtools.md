@@ -30,6 +30,7 @@
 #### Favorite Tools
 
 - 🔧 [Ray](https://ray.so/)
+- 🔧 [Diagramas de Sequência](https://sequencediagram.org/)
 - 🔧 [Cheatsheets](https://devhints.io/)
 - 🔧 [Turborepo](https://turborepo.org/)
 - 🔧 [Code explanation](https://denigma.app/#demo)
@@ -64,6 +65,7 @@
 - 🔧 [Bit dev](https://bit.dev/)
 - 🔧 [Copy ai](https://app.copy.ai/) <!-- generate marketing copy in seconds. -->
 - 🔧 [AWS cloudping info](https://cloudping.info/)
+- 🔧 [Pipedream](https://pipedream.com/workflows)
 - 🔧 [Rextester](https://rextester.com/)
 - 🔧 [Regex 101](https://regex101.com/)
 - 🔧 [Roadmap Study](https://roadmap.sh/)

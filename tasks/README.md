@@ -16,6 +16,7 @@
 
 **Important**
 - [ ] English
+- [ ] C4 model
 - [ ] TDD
 - [ ] SQL/NoSQL
 - [ ] DevOps
