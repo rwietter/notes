@@ -83,3 +83,4 @@ await UserModel.updateOne({ email: 'mauriciobw17@gmail.com' }, { $set: {  CPF: '
 ```
 
 ### Delete
+
