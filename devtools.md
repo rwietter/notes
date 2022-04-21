@@ -4,6 +4,7 @@
 
 - 🔧 [One line layouts](https://web.dev/one-line-layouts/)
 - 🔧 [Tools & Page divider](https://omatsuri.app/page-dividers)
+- 🔧 [CSS Layout](https://csslayout.io/)
 - 🔧 [Text effects](https://tobiasahlin.com/moving-letters/)
 - 🔧 [Shadpws](https://shadows.brumm.af/)
 - 🔧 [Image Optimized CDN](https://imagekit.io)
