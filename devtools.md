@@ -27,6 +27,7 @@
 - 📙 [Safe and secure](https://web.dev/secure)
 - 📙 [Network reliability](https://web.dev/reliable)
 - 📙 [Fast load times](https://web.dev/fast)
+- 📙 [Fathom Analytics](https://usefathom.com/)
 
 #### Favorite Tools
 

@@ -2,6 +2,11 @@
 
 - ✅ [State of css](https://2020.stateofcss.com/pt-PT/)
 - ❌ [HTML Tutorials](https://htmldog.com/guides/html/)
+- ❌ [CSS Layout](https://csslayout.io/)
+- ❌ [CSS Tricks Guides](https://css-tricks.com/guides/)
+- ❌ [HTML Unicodes](https://unicode-table.com/pt/html-entities/)
+- ❌ [Frontend Resources](https://github.com/phuoc-ng/frontend-development#css)
+- ❌ [HTML Best Practices](https://github.com/hail2u/html-best-practices)
 - ✅ [Floating Point Guide](https://floating-point-gui.de/basic/)
 - ❌ [W3docs](https://www.w3docs.com/)
 - ❌ [CSS Reference](https://cssreference.io/)
@@ -30,6 +35,11 @@ Flexbox
 Grid
 - ✅ [Grid Garden](https://cssgridgarden.com/#pt-pt)
 
+
+Frontend
+- [20 Best Google Web Fonts](https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html)
+- [Favicon Generator](https://realfavicongenerator.net/)
+
 ---
 
 ### Blogs
@@ -44,6 +54,7 @@ Grid
 - ✎ [Vitor's Almeida](https://vitorsalmeida.com/)
 - ✎ [Aligator](https://alligator.io/)
 - ✎ [Robin Wieruch](https://www.robinwieruch.de/)
+- ✎ [Computer Things](https://buttondown.email/hillelwayne)
 - ✎ [CSS Tricks](https://css-tricks.com/)
 - ✎ [FreeCodeCamp](https://www.freecodecamp.org/news/)
 - ✎ [FreeCodeCamp Erik](https://www.freecodecamp.org/news/author/erickwendel/)
