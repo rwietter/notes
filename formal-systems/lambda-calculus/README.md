@@ -2,6 +2,8 @@
 
 Uma abstração lambda é um tipo de expressão que denota uma função. O λ determina que existe uma função, e é imediatamente seguido por uma variável, denominada parâmetro formal da função.
 
+Existem três maneiras principais de resolver um cálculo lambda: by reduction, by expansion, e by normalization. By reduction é a técnica de cálculo lambda mais simples. Consiste em aplicar as regras de redução para simplificar uma expressão lambda até que ela seja irredutível. By expansion é uma técnica mais avançada que usa as regras de expansão para transformar uma expressão lambda em uma forma equivalente que pode ser mais fácil de reduzir. By normalization é a técnica mais abrangente e consiste em aplicar as regras de redução e expansão de forma interativa até que a expressão lambda seja normalizada, ou seja, seja irredutível e não possa mais ser expandida.
+
 ```bash
 λx. x + 1 # f(x) -> x + 1
 (λx. λy. 5 + y) 2 # f(x) -> f(y) -> 5 + 2

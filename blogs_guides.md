@@ -39,6 +39,7 @@ Grid
 Frontend
 - [20 Best Google Web Fonts](https://www.awwwards.com/20-best-web-fonts-from-google-web-fonts-and-font-face.html)
 - [Favicon Generator](https://realfavicongenerator.net/)
+- [Learn CSS](https://web.dev/learn/css/gradients/)
 
 ---
 

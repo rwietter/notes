@@ -3,6 +3,7 @@
 #### Front UI and Tools
 
 - 🔧 [One line layouts](https://web.dev/one-line-layouts/)
+- 🔧 [JSON Visio Graph](https://jsonvisio.com/editor)
 - 🔧 [Tools & Page divider](https://omatsuri.app/page-dividers)
 - 🔧 [CSS Layout](https://csslayout.io/)
 - 🔧 [Text effects](https://tobiasahlin.com/moving-letters/)
@@ -32,8 +33,11 @@
 #### Favorite Tools
 
 - 🔧 [Ray](https://ray.so/)
+- 🔧 [Code to img](https://codetoimg.com/)
+- 🔧 [Excalidraw](https://excalidraw.com/)
 - 🔧 [Diagramas de Sequência](https://sequencediagram.org/)
 - 🔧 [Cheatsheets](https://devhints.io/)
+- 🔧 [Very Front](https://veryfront.com/)
 - 🔧 [Turborepo](https://turborepo.org/)
 - 🔧 [Code explanation](https://denigma.app/#demo)
 - 🔧 [zxcvbn](https://github.com/dropbox/zxcvbn)
