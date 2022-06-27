@@ -1,3 +1,11 @@
+## Journals
+
+- [Researcher App](https://www.researcher-app.com/)
+- [Artificial Intelligence News](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)
+- [Hacka Day](https://hackaday.com/)
+- [Bloomberg](https://www.bloomberg.com/)
+- [Bloomberg Linea](https://www.bloomberglinea.com/?noredirect)
+
 ### Reading
 
 - 📙 [Roy Fielding's REST dissertation](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
@@ -74,6 +82,9 @@
 
 ### Read
 
+- ✅ []()
+- ✅ [Is LaMDA Sentient? — an Interview](https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917)
+- ✅ [The Curious Case of LaMDA, the AI that Claimed to Be Sentient](https://www.prindleinstitute.org/2022/06/the-curious-case-of-lamda-the-ai-that-claimed-to-be-sentient/)
 - ✅ [test && commit || revert](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864)
 - ✅ [https://medium.com/appcumbuca/j%C3%A1-sei-rest-deveria-aprender-graphql-768fcb9a93b6](https://medium.com/appcumbuca/j%C3%A1-sei-rest-deveria-aprender-graphql-768fcb9a93b6)
 - ✅ [Svelte 3: Guia para o Desenvolvedor (React) Impaciente](https://dev.to/oieduardorabelo/svelte-3-guia-para-o-desenvolvedor-react-impaciente-52i5)
